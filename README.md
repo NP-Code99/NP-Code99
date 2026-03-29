@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nandan Pullakandam 👋
 
-<!--
-**NP-Code99/NP-Code99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Data Science student at UNC Chapel Hill with a focus on Full-Stack Development, AI/ML, and Fintech. I love building tools that solve real-world problems and exploring the intersection of finance and technology.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, GDScript, SQL
+- **Backend:** FastAPI, Express.js, Node.js
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Data & AI:** TensorFlow, Scikit-learn, NumPy, Pandas
+- **Tools:** Git, GitHub Copilot, Docker, Solana/Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Gravity Fit:** A full-stack application that won 1st place at the Carolina Data Challenge. It curates fitness schedules for astronauts based on exoplanet gravity.
+- **Subscription Tracker:** A full-stack app for managing recurring payments with automated email reminders.
+- **Trading AI Bot:** A Python-based bot designed to analyze stock trends and volatile market movements.
+- **Dog & Cat Classifier:** An AI tool built to identify differences in pet images using deep learning.
