@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nandan%20Pullakandam&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Fintech&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+# 👨‍💻 Nandan Pullakandam
+### Full-Stack · AI/ML · Fintech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandan-pullakandam)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NP-Code99)
@@ -148,7 +149,5 @@ nandan = {
 
 [![Email Me](https://img.shields.io/badge/nandan.pullakandam12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandan.pullakandam12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fnandan--pullakandam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandan-pullakandam)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
