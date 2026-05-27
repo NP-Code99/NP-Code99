@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nandan%20Pullakandam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Fintech&descSize=16&descAlignY=58&descColor=ccd6f6" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+%40+UNC+Chapel+Hill+%7C+GPA%3A+3.87;Full-Stack+%7C+AI%2FML+%7C+Fintech+Builder;🏆+1st+Place+%E2%80%94+Carolina+Data+Challenge+2025;Open+to+SWE+%26+AI+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+%40+UNC+Chapel+Hill;Full-Stack+%7C+AI%2FML+%7C+Fintech+Builder;🏆+1st+Place+%E2%80%94+Carolina+Data+Challenge+2025;Open+to+SWE+%26+AI+Opportunities!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ```python
 nandan = {
-    "🎓 school":     "UNC Chapel Hill — B.S. Computer Science,
+    "🎓 school":     "UNC Chapel Hill — B.S. Computer Science",
     "📅 graduating": "May 2027",
     "🔭 focus":      ["Full-Stack Development", "AI/ML", "Fintech"],
     "💼 currently":  [
@@ -140,11 +140,6 @@ nandan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NP-Code99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NP-Code99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NP-Code99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
