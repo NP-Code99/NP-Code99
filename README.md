@@ -19,7 +19,7 @@
 
 ```python
 nandan = {
-    "🎓 school":     "UNC Chapel Hill — B.S. Computer Science — GPA: 3.87",
+    "🎓 school":     "UNC Chapel Hill — B.S. Computer Science,
     "📅 graduating": "May 2027",
     "🔭 focus":      ["Full-Stack Development", "AI/ML", "Fintech"],
     "💼 currently":  [
