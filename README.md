@@ -95,6 +95,18 @@ nandan = {
 
 ## 🚀 Featured Projects
 
+### ⚡ Chiaro &nbsp;·&nbsp; `Auto-Apply Job Platform · Live on the App Store`
+
+> Built the core automation engine powering Chiaro — a job application platform with **100+ deployed users** on the App Store.
+
+`Claude Code` `Playwright` `Gmail API` `Apify` `Node.js`
+
+- Built an **end-to-end auto-apply feature from scratch** achieving **90%+ automation success rate** across Greenhouse, Lever, and Trakstar portals — saving users 10+ minutes per application
+- Integrated the **Gmail API** to capture and parse verification codes, acceptance, and denial emails in real time, enabling seamless authentication during automated submissions
+- Scraped **30 fresh startup job listings daily** via Apify to power a Tinder-style job discovery feed, driving platform growth to 100+ App Store users
+
+---
+
 ### 🌌 [GravityFit](https://github.com/NP-Code99/CDC-2025-Planetary-Systems) &nbsp;·&nbsp; `🏆 1st Place — Carolina Data Challenge 2025`
 
 > Built in **24 hours** — transforms NASA's Exoplanet Archive (33,000+ records) into personalized fitness plans tailored to each planet's gravity conditions.
